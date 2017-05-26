@@ -1,0 +1,36 @@
+
+
+commited
+staged
+changes 
+
+git add
+
+git commit
+git pull
+git push
+git clone - pegar versao do reomoto e copiar para o local
+
+git init - iniciar o repositorio localmente e depos enviar para o remoto
+
+git config user.name "nome"
+git config user.mail
+
+git clone <url repositorio> 
+
+git add. - coloca tudo ai
+
+git commit -m "descrição do commit"
+git push origin master
+
+*****by init*****
+git init
+git remote add origin <url repositorio>
+git add.
+git commit -m "descrição do commit"
+git push origin master
+***** nada está salvo enquanto não der o push
+
+git checkout -b testing - saindo do master e indo para o testing
+git checkout master
+git merge testing
